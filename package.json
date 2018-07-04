@@ -24,9 +24,6 @@
     "node": "8.9.4"
   },
   "scripts": {
-    "build": "cd booulderbike-frontend && npm install && npm run build && cd ..",
-    "deploy": "cp -a booulderbike-frontend/build/. public/",
-    "postinstall": "npm run build && npm run deploy && echo 'boulderbike-frontend built!'",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
