@@ -2,7 +2,7 @@
   "name": "project7react",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://boulderbike-backend.herokuapp.com/",
+  "homepage": "https://boulderbike-backend.herokuapp.com/",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.1",
@@ -35,5 +35,4 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
-
 }
