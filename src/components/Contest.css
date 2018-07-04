@@ -1,0 +1,17 @@
+
+div, html {
+
+    margin: 0;
+}
+#myForm{
+
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
+  font-size: 20px;
+}
+.fill{
+  font-size: 30px;
+  color: black;
+}

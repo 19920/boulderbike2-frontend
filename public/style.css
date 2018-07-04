@@ -1,0 +1,66 @@
+body{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.navbar {
+        border:0;
+        border-radius: 0;
+        color: white;
+        padding:0;
+        margin:0;
+        height: inherit;
+        font-size: 30px;
+        background-color: black;
+    }
+    .nav{
+        color: white;
+    }
+.navbar-collapse{
+    color: rgb(0,0,0);
+}
+.navbar-brand{
+   font-size: 30px;
+   color: white;
+}
+
+.container-fluid{
+    background-color: rgba(70,90,60,90);
+}
+#note{
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.page-header{
+    color: red;
+}
+.lead,h3{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+} 
+img{
+    width: 450px;
+    height: 292px;
+}
+#film{
+    color: white;
+}
+h1{
+    color: red;
+    background-color: white;
+}
+#text{
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+
+
+
+
+  
